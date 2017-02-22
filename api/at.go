@@ -27,6 +27,7 @@ func (c *ATCommand) Bytes() ([]byte, error) {
 	return buf.Bytes(), nil
 }
 
+// ATCommandStatus represents the possible status results of an AT Command.
 type ATCommandStatus byte
 
 const (

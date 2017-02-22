@@ -5,6 +5,7 @@ type apiTypeID byte
 const (
 	apiTypeAT         apiTypeID = 0x08
 	apiTypeExplicitTx apiTypeID = 0x11
+	apiTypeExplicitRx apiTypeID = 0x91
 )
 
 // TxDeliveryStatus describes the possible delivery status results.
