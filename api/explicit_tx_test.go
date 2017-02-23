@@ -5,8 +5,8 @@ import "testing"
 func Test_ExplicitTx(t *testing.T) {
 	cmd := ExplicitTxCommand{
 		FrameID:         0xFF,
-		DstAddr64:       0x0001020304050607,
-		DstAddr16:       0x0001,
+		Addr64:          0x0001020304050607,
+		Addr16:          0x0001,
 		SrcEp:           0x01,
 		DstEp:           0x02,
 		ClusterID:       0x1234,
