@@ -2,10 +2,10 @@ package gobee_test
 
 import (
 	"fmt"
-	"github.com/pauleyj/gobee"
-	"github.com/pauleyj/gobee/api"
-	"github.com/pauleyj/gobee/api/rx"
-	"github.com/pauleyj/gobee/api/tx"
+	"github.com/bgentry/gobee"
+	"github.com/bgentry/gobee/api"
+	"github.com/bgentry/gobee/api/rx"
+	"github.com/bgentry/gobee/api/tx"
 	"testing"
 )
 

@@ -1,7 +1,7 @@
 package rx
 
 import (
-	"github.com/pauleyj/gobee/api"
+	"github.com/bgentry/gobee/api"
 )
 
 // APIFrame defines an RX API frame

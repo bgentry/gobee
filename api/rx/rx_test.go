@@ -2,7 +2,7 @@ package rx
 
 import (
 	"bytes"
-	"github.com/pauleyj/gobee/api"
+	"github.com/bgentry/gobee/api"
 	"testing"
 )
 

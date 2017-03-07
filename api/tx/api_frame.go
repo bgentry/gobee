@@ -3,7 +3,7 @@ package tx
 import (
 	"bytes"
 
-	"github.com/pauleyj/gobee/api"
+	"github.com/bgentry/gobee/api"
 )
 
 // APIFrame defines an API frame structure

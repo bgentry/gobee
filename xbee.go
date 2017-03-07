@@ -1,9 +1,9 @@
 package gobee
 
 import (
-	"github.com/pauleyj/gobee/api"
-	"github.com/pauleyj/gobee/api/rx"
-	"github.com/pauleyj/gobee/api/tx"
+	"github.com/bgentry/gobee/api"
+	"github.com/bgentry/gobee/api/rx"
+	"github.com/bgentry/gobee/api/tx"
 )
 
 // BroadcastAddr64 64-bit broadcast address

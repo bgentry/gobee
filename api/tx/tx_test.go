@@ -3,7 +3,7 @@ package tx
 import (
 	"testing"
 
-	"github.com/pauleyj/gobee/api"
+	"github.com/bgentry/gobee/api"
 )
 
 func addressOf(b byte) *byte { return &b }
